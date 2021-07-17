@@ -32,7 +32,7 @@ const TopBar = () => {
                 <MenuItem href="/borrow">Borrow</MenuItem>
                 <MenuItem href="/alerts">Alerts</MenuItem>
                 <MenuItem href="/stats">Stats</MenuItem>
-                <MenuItem href="https://docs.mango.markets/">Learn</MenuItem>
+                <MenuItem href="https://docs.liqsolana.com/">Learn</MenuItem>
               </div>
             </div>
             <div className="flex items-center">
